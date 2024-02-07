@@ -1,4 +1,4 @@
-# CSCI 2510: Lab 2 : SLUSH - the SLU Shell 
+# CSCI 2510: Lab - SLUSH - the SLU Shell 
 
 Processes are the fundamental abstraction in any operating system-
 a main purpose of the operating system is to "operate" the computer,
